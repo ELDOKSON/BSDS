@@ -12,7 +12,7 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.z
 
 ## Requirements: ##
 1. a brain...
-
+Autor: risporce,TheCrazor,ELDOKSON-AKA .WhiteBlue
 ## How to play BSDS: ##
 1. download server and apk
 2. install the apk
